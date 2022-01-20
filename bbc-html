@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>BBC.com</title>
+   </head>
+
+   <body>
+
+     <header>
+       <nav>
+         <img src="bccprontoacabou.png" alt="bbc logo">
+
+         <ul>
+           <li><a href="#">Home</a></li>
+           <li><a href="#">News</a></li>
+           <li><a href="#">Sport</a></li>
+           <li><a href="#">Rell</a></li>
+           <li><a href="#">Work</a></li>
+           <li><a href="#">Travel</a></li>
+           <li><a href="#">Future</a></li>
+           <li><a href="#">Culture</a></li>
+           <li><a href="#">More<select name="news"></select></a></li>
+           <form>
+             <input id="search" type="text" placeholder="Search">
+           </form>
+         </ul>
+       </nav>
+     </header>
+
+     <section>
+
+       <h2>Welcome to BBC.com</h2>
+       <span>Thursday, 13 August</span>
+
+       <section>
+         <a href="#"><img src="isrealuae.jpg" alt="Israel and UAE leaders">
+         <h1>Israel and UAE strike historic peace deal</h1>
+         <p>Israel and the UAE agree to normalize relatios, marking the third Israel-Arab peace deal.</p></a>
+         <h4><a href="#">MIDDLE EAST</a></h4>
+       </section>
+
+       <section>
+         <a href="#"><img src="flags.jpg" alt="Canada's and USA's flags">
+         <h3>Americans, go home: Tension at Canada-US border</h3></a>
+         <h4><a href="#">CANADA</a></h4>
+       </section>  
+
+       <section>
+         <a href="#"><img src="online-gyms.jpg" alt="Online productivity gyms">
+         <h3>The online 'productivity gyms'</h3></a>
+         <h4><a href="#">WORKLIFE</a></h4>
+       </section>
+
+       <section>
+         <a href="#"><img src="vaccinee.jpg" alt="Vaccine sample">
+         <h3>How will the world vaccinate seven billion people?</h3></a>
+         <h4><a href="#">HEALTH</a></h4>
+       </section>
+
+       <section>
+         <a href="#"><img src="folkk,jpg" alt="Folk singer">
+          <h3>The folk singer murdered for his music</h3></a>
+          <h4><a href="#">CULTURE</a></h4>
+       </section>
+
+     </section>
+
+     <section>
+       
+       <h2>News</h2>
+
+       <section>
+         <a href="#"><img src="bidenharris.jpg" alt="Binde and Harris">
+          <h3>Biden and Harris day Trump has felt US 'in tatters'</h3>
+          <p>Joe Biden and runnning mate Kamala Harris call President Donald Trump a "whinning" incompetent leader.</p></a>
+          <h4><a href="#">US ELECTION 2020</a></h4>
+       </section>  
+
+       <section>
+         <a href="#"><img src="womenbelarus.jpg" alt="Women in Belarus protests">
+          <h3>Women form 'solidarity chains' in Belarus protests</h3>
+          <p>Women take to the streets of Minsk dressed in white as they demand an end to police brutality.</p></a>
+          <h4><a href="#">EUROPE</a></h4>
+       </section>
+
+       <section>
+         <a href="#"><img src="trump.jpg" alt="Donald Trump">
+          <h3>Trump says low-pressure shower heads won't wash</h3>
+          <p>The US calls for rules to be eased after Donald Trump complained of issues washing his hair.</p></a>
+          <h4><a href="#">US & CANADA</a></h4>
+         </section>
+
+     </section>
+    
+
+   </body>
+ </html>
